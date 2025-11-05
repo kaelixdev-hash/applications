@@ -5,8 +5,6 @@ allowedUsers = {
     
     
     ----------///// TEMPORARIOS /////-------------
-    ["CaioFxp71"]            = true, -- 27/09 30/10
-    ["Goether304"]           = true, -- 27/09 01/11
     ["ERIK90909082"]         = true, -- 02/09 27/12
     ["Gabrielmilitar_6"]     = true, -- 27/08 27/12
     ["biel_mrqs"]            = true, -- 06/09 06/11
