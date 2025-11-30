@@ -36,7 +36,7 @@ allowedUsers = {
 
    ----------///// PERMANENTE ACESS /////------------
     ["rafabrow31"]           = true,    
-    ["MEMENOMI52"]           = true,  
+    ["HBT_QiOzdb9pNL"]       = true,  
     ["ninoezekielgael"]      = true, 
     ["botinha_W"]            = true,
     ["shotxz_cria"]          = true,
