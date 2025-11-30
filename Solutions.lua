@@ -35,7 +35,7 @@ allowedUsers = {
     ["edu_gachalifeofc"]     = true, -- 03/10 03/12
 
    ----------///// PERMANENTE ACESS /////------------
-    ["rafabrow31"]           = true,    
+    ["HBT_QiOzdb9pNL"]       = true,    
     ["MEMENOMI52"]           = true,  
     ["ninoezekielgael"]      = true, 
     ["botinha_W"]            = true,
