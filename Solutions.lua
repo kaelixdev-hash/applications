@@ -37,7 +37,7 @@ allowedUsers = {
    ----------///// PERMANENTE ACESS /////------------
     ["crmmff2"]              = true,    
     ["HBT_QiOzdb9pNL"]       = true,  
-    ["ninoezekielgael"]      = true, 
+    ["Usuariodescript401"]   = true, 
     ["botinha_W"]            = true,
     ["shotxz_cria"]          = true,
     ["Victhomxd"]            = true,
